@@ -1,0 +1,15 @@
+Copyright (c) 2026 Nikko Griffin. All rights reserved.
+
+This project ("Asset Tagging Agent — MCP Server") and all source files
+within it (server.js, package.json, Code.gs, README.md) are the property
+of Nikko Griffin. No part of this project may be copied, modified,
+distributed, or used, in whole or in part, without prior written
+permission from the copyright holder.
+
+---
+Note for the repo owner: this is an "all rights reserved" notice, which
+is the correct default for a portfolio piece you don't want others
+reusing. If you'd later like to let others freely use or build on this
+code (for example, to make it easier for a hiring manager's team to fork
+and experiment with), swap this file for a permissive license such as
+MIT or Apache 2.0 instead.
