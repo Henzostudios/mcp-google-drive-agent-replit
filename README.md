@@ -261,4 +261,10 @@ Code.gs — Google Apps Script backend code (bypasses heavy OAuth).
 package.json — Project dependencies (@modelcontextprotocol/sdk, express, zod).
 
 
+Now you can simply tell Claude to organize your Google Drive with this simple prompt:
 
+Use the Asset Tagging agent to list all the files inside this 
+
+Google Drive folder link: Your Google Drive Link
+
+Once listed, analyze each asset and tag all of them using the batch tool.
