@@ -14,8 +14,12 @@ categorizes and tags each asset via Claude, and securely writes those tags back 
 metadata while applying a star for rapid filtering.
 
 
-
 Built as a working portfolio demo and field-ready enablement lab.
+
+https://github.com/user-attachments/assets/c8aaacb6-8ee3-4cce-bfa3-ebcc2ce76eab
+
+
+
 
 
 
